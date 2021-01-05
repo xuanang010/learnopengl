@@ -1,0 +1,113 @@
+﻿源.obj : error LNK2001: 无法解析的外部符号 glad_glViewport
+glfw3.lib(win32_joystick.obj) : error LNK2001: 无法解析的外部符号 __imp_calloc
+glfw3.lib(wgl_context.obj) : error LNK2001: 无法解析的外部符号 __imp_calloc
+glfw3.lib(egl_context.obj) : error LNK2001: 无法解析的外部符号 __imp_calloc
+glfw3.lib(osmesa_context.obj) : error LNK2001: 无法解析的外部符号 __imp_calloc
+glfw3.lib(win32_monitor.obj) : error LNK2001: 无法解析的外部符号 __imp_calloc
+glfw3.lib(monitor.obj) : error LNK2001: 无法解析的外部符号 __imp_calloc
+glfw3.lib(vulkan.obj) : error LNK2001: 无法解析的外部符号 __imp_calloc
+glfw3.lib(win32_window.obj) : error LNK2001: 无法解析的外部符号 __imp_calloc
+glfw3.lib(init.obj) : error LNK2001: 无法解析的外部符号 __imp_calloc
+glfw3.lib(window.obj) : error LNK2001: 无法解析的外部符号 __imp_calloc
+glfw3.lib(input.obj) : error LNK2001: 无法解析的外部符号 __imp_calloc
+glfw3.lib(win32_init.obj) : error LNK2001: 无法解析的外部符号 __imp_calloc
+glfw3.lib(win32_joystick.obj) : error LNK2001: 无法解析的外部符号 __imp_free
+glfw3.lib(wgl_context.obj) : error LNK2001: 无法解析的外部符号 __imp_free
+glfw3.lib(egl_context.obj) : error LNK2001: 无法解析的外部符号 __imp_free
+glfw3.lib(osmesa_context.obj) : error LNK2001: 无法解析的外部符号 __imp_free
+glfw3.lib(win32_monitor.obj) : error LNK2001: 无法解析的外部符号 __imp_free
+glfw3.lib(monitor.obj) : error LNK2001: 无法解析的外部符号 __imp_free
+glfw3.lib(vulkan.obj) : error LNK2001: 无法解析的外部符号 __imp_free
+glfw3.lib(win32_window.obj) : error LNK2001: 无法解析的外部符号 __imp_free
+glfw3.lib(init.obj) : error LNK2001: 无法解析的外部符号 __imp_free
+glfw3.lib(window.obj) : error LNK2001: 无法解析的外部符号 __imp_free
+glfw3.lib(input.obj) : error LNK2001: 无法解析的外部符号 __imp_free
+glfw3.lib(win32_init.obj) : error LNK2001: 无法解析的外部符号 __imp_free
+glfw3.lib(init.obj) : error LNK2019: 无法解析的外部符号 __imp___stdio_common_vsprintf，函数 _glfwInputError 中引用了该符号
+glfw3.lib(win32_joystick.obj) : error LNK2001: 无法解析的外部符号 __imp___stdio_common_vsprintf
+glfw3.lib(window.obj) : error LNK2019: 无法解析的外部符号 __imp_strncpy，函数 glfwWindowHintString 中引用了该符号
+glfw3.lib(input.obj) : error LNK2001: 无法解析的外部符号 __imp_strncpy
+glfw3.lib(win32_joystick.obj) : error LNK2001: 无法解析的外部符号 __imp_strncpy
+glfw3.lib(context.obj) : error LNK2019: 无法解析的外部符号 __imp_strncmp，函数 _glfwRefreshContextAttribs 中引用了该符号
+glfw3.lib(input.obj) : error LNK2001: 无法解析的外部符号 __imp_strncmp
+glfw3.lib(egl_context.obj) : error LNK2001: 无法解析的外部符号 __imp_strncmp
+glfw3.lib(context.obj) : error LNK2019: 无法解析的外部符号 __imp___stdio_common_vsscanf，函数 sscanf 中引用了该符号
+glfw3.lib(input.obj) : error LNK2019: 无法解析的外部符号 __imp_strcspn，函数 glfwUpdateGamepadMappings 中引用了该符号
+glfw3.lib(input.obj) : error LNK2019: 无法解析的外部符号 __imp_strspn，函数 glfwUpdateGamepadMappings 中引用了该符号
+glfw3.lib(input.obj) : error LNK2019: 无法解析的外部符号 __imp_realloc，函数 glfwUpdateGamepadMappings 中引用了该符号
+glfw3.lib(win32_monitor.obj) : error LNK2001: 无法解析的外部符号 __imp_realloc
+glfw3.lib(monitor.obj) : error LNK2001: 无法解析的外部符号 __imp_realloc
+glfw3.lib(input.obj) : error LNK2019: 无法解析的外部符号 __imp_strtoul，函数 parseMapping 中引用了该符号
+glfw3.lib(monitor.obj) : error LNK2019: 无法解析的外部符号 __imp_qsort，函数 refreshVideoModes 中引用了该符号
+glfw3.lib(win32_joystick.obj) : error LNK2001: 无法解析的外部符号 __imp_qsort
+glfw3.lib(monitor.obj) : error LNK2019: 无法解析的外部符号 powf，函数 glfwSetGamma 中引用了该符号
+libvcruntimed.lib(frame.obj) : error LNK2001: 无法解析的外部符号 strcmp
+glfw3.lib(vulkan.obj) : error LNK2001: 无法解析的外部符号 strcmp
+glfw3.lib(win32_joystick.obj) : error LNK2001: 无法解析的外部符号 strcmp
+libvcruntimed.lib(std_type_info.obj) : error LNK2001: 无法解析的外部符号 strcmp
+libvcruntimed.lib(ehhelpers.obj) : error LNK2001: 无法解析的外部符号 strcmp
+LIBCMTD.lib(init.obj) : error LNK2019: 无法解析的外部符号 _CrtDbgReport，函数 _CRT_RTC_INIT 中引用了该符号
+LIBCMTD.lib(init.obj) : error LNK2019: 无法解析的外部符号 _CrtDbgReportW，函数 _CRT_RTC_INITW 中引用了该符号
+libvcruntimed.lib(winapi_downlevel.obj) : error LNK2001: 无法解析的外部符号 _CrtDbgReportW
+libvcruntimed.lib(std_exception.obj) : error LNK2001: 无法解析的外部符号 _CrtDbgReportW
+LIBCMTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 _seh_filter_exe，函数 "int `int __cdecl __scrt_common_main_seh(void)'::`1'::filt$0" (?filt$0@?0??__scrt_common_main_seh@@YAHXZ@4HA) 中引用了该符号
+LIBCMTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 _set_app_type，函数 "public: static void __cdecl __scrt_main_policy::set_app_type(void)" (?set_app_type@__scrt_main_policy@@SAXXZ) 中引用了该符号
+LIBCMTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 __setusermatherr，函数 "int __cdecl pre_c_initialization(void)" (?pre_c_initialization@@YAHXZ) 中引用了该符号
+LIBCMTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 _configure_narrow_argv，函数 "public: static int __cdecl __scrt_narrow_argv_policy::configure_argv(void)" (?configure_argv@__scrt_narrow_argv_policy@@SAHXZ) 中引用了该符号
+LIBCMTD.lib(utility.obj) : error LNK2001: 无法解析的外部符号 _configure_narrow_argv
+LIBCMTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 _initialize_narrow_environment，函数 "public: static int __cdecl __scrt_narrow_environment_policy::initialize_environment(void)" (?initialize_environment@__scrt_narrow_environment_policy@@SAHXZ) 中引用了该符号
+LIBCMTD.lib(utility.obj) : error LNK2001: 无法解析的外部符号 _initialize_narrow_environment
+LIBCMTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 _get_initial_narrow_environment，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
+LIBCMTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 _initterm，函数 "int __cdecl __scrt_common_main_seh(void)" (?__scrt_common_main_seh@@YAHXZ) 中引用了该符号
+LIBCMTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 _initterm_e，函数 "int __cdecl __scrt_common_main_seh(void)" (?__scrt_common_main_seh@@YAHXZ) 中引用了该符号
+LIBCMTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 exit，函数 "int __cdecl __scrt_common_main_seh(void)" (?__scrt_common_main_seh@@YAHXZ) 中引用了该符号
+LIBCMTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 _exit，函数 "int __cdecl __scrt_common_main_seh(void)" (?__scrt_common_main_seh@@YAHXZ) 中引用了该符号
+LIBCMTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 _set_fmode，函数 "public: static void __cdecl __scrt_file_policy::set_fmode(void)" (?set_fmode@__scrt_file_policy@@SAXXZ) 中引用了该符号
+LIBCMTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 __p___argc，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
+LIBCMTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 __p___argv，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
+LIBCMTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 _cexit，函数 "int __cdecl __scrt_common_main_seh(void)" (?__scrt_common_main_seh@@YAHXZ) 中引用了该符号
+LIBCMTD.lib(utility.obj) : error LNK2001: 无法解析的外部符号 _cexit
+LIBCMTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 _c_exit，函数 "int __cdecl __scrt_common_main_seh(void)" (?__scrt_common_main_seh@@YAHXZ) 中引用了该符号
+LIBCMTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 _register_thread_local_exe_atexit_callback，函数 "int __cdecl __scrt_common_main_seh(void)" (?__scrt_common_main_seh@@YAHXZ) 中引用了该符号
+LIBCMTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 _configthreadlocale，函数 "int __cdecl pre_c_initialization(void)" (?pre_c_initialization@@YAHXZ) 中引用了该符号
+LIBCMTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 _set_new_mode，函数 "void __cdecl pre_cpp_initialization(void)" (?pre_cpp_initialization@@YAXXZ) 中引用了该符号
+LIBCMTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 __p__commode，函数 "public: static void __cdecl __scrt_file_policy::set_commode(void)" (?set_commode@__scrt_file_policy@@SAXXZ) 中引用了该符号
+LIBCMTD.lib(utility.obj) : error LNK2019: 无法解析的外部符号 _seh_filter_dll，函数 __scrt_dllmain_exception_filter 中引用了该符号
+LIBCMTD.lib(utility.obj) : error LNK2019: 无法解析的外部符号 _initialize_onexit_table，函数 __scrt_initialize_onexit_tables 中引用了该符号
+LIBCMTD.lib(utility.obj) : error LNK2019: 无法解析的外部符号 _register_onexit_function，函数 _onexit 中引用了该符号
+LIBCMTD.lib(utility.obj) : error LNK2019: 无法解析的外部符号 _execute_onexit_table，函数 __scrt_dllmain_uninitialize_c 中引用了该符号
+LIBCMTD.lib(utility.obj) : error LNK2019: 无法解析的外部符号 _crt_atexit，函数 _onexit 中引用了该符号
+LIBCMTD.lib(utility.obj) : error LNK2019: 无法解析的外部符号 _crt_at_quick_exit，函数 at_quick_exit 中引用了该符号
+LIBCMTD.lib(utility_desktop.obj) : error LNK2019: 无法解析的外部符号 terminate，函数 __scrt_unhandled_exception_filter 中引用了该符号
+libvcruntimed.lib(ehhelpers.obj) : error LNK2001: 无法解析的外部符号 terminate
+libvcruntimed.lib(chandler_noexcept.obj) : error LNK2001: 无法解析的外部符号 terminate
+libvcruntimed.lib(frame.obj) : error LNK2001: 无法解析的外部符号 terminate
+LIBCMTD.lib(error.obj) : error LNK2019: 无法解析的外部符号 strcpy_s，函数 "void __cdecl _RTC_StackFailure(void *,char const *)" (?_RTC_StackFailure@@YAXPEAXPEBD@Z) 中引用了该符号
+libvcruntimed.lib(std_type_info.obj) : error LNK2001: 无法解析的外部符号 strcpy_s
+libvcruntimed.lib(std_exception.obj) : error LNK2001: 无法解析的外部符号 strcpy_s
+LIBCMTD.lib(error.obj) : error LNK2019: 无法解析的外部符号 strcat_s，函数 "void __cdecl _RTC_StackFailure(void *,char const *)" (?_RTC_StackFailure@@YAXPEAXPEBD@Z) 中引用了该符号
+LIBCMTD.lib(error.obj) : error LNK2019: 无法解析的外部符号 __stdio_common_vsprintf_s，函数 _vsprintf_s_l 中引用了该符号
+libvcruntimed.lib(undname.obj) : error LNK2001: 无法解析的外部符号 __stdio_common_vsprintf_s
+LIBCMTD.lib(pdblkup.obj) : error LNK2019: 无法解析的外部符号 _wmakepath_s，函数 "int __cdecl GetPdbDllPathFromFilePath(wchar_t const *,wchar_t *,unsigned __int64)" (?GetPdbDllPathFromFilePath@@YAHPEB_WPEA_W_K@Z) 中引用了该符号
+LIBCMTD.lib(pdblkup.obj) : error LNK2019: 无法解析的外部符号 _wsplitpath_s，函数 "int __cdecl GetPdbDllPathFromFilePath(wchar_t const *,wchar_t *,unsigned __int64)" (?GetPdbDllPathFromFilePath@@YAHPEB_WPEA_W_K@Z) 中引用了该符号
+LIBCMTD.lib(pdblkup.obj) : error LNK2019: 无法解析的外部符号 wcscpy_s，函数 "int __cdecl GetPdbDllPathFromFilePath(wchar_t const *,wchar_t *,unsigned __int64)" (?GetPdbDllPathFromFilePath@@YAHPEB_WPEA_W_K@Z) 中引用了该符号
+libvcruntimed.lib(std_type_info.obj) : error LNK2019: 无法解析的外部符号 _free_dbg，函数 "public: void __cdecl __crt_internal_free_policy::operator()<char>(char const * const)const " (??$?RD@__crt_internal_free_policy@@QEBAXQEBD@Z) 中引用了该符号
+libvcruntimed.lib(per_thread_data.obj) : error LNK2001: 无法解析的外部符号 _free_dbg
+LIBCMTD.lib(delete_scalar.obj) : error LNK2001: 无法解析的外部符号 _free_dbg
+libvcruntimed.lib(std_type_info.obj) : error LNK2019: 无法解析的外部符号 _malloc_dbg，函数 "public: void * __cdecl `char const * __cdecl __std_type_info_name(struct __std_type_info_data *,struct __type_info_node *)'::`2'::<lambda_1>::operator()(unsigned __int64)const " (??R<lambda_1>@?1??__std_type_info_name@@YAPEBDPEAU__std_type_info_data@@PEAU__type_info_node@@@Z@QEBAPEAX_K@Z) 中引用了该符号
+libvcruntimed.lib(std_type_info.obj) : error LNK2019: 无法解析的外部符号 strlen，函数 __std_type_info_name 中引用了该符号
+libvcruntimed.lib(undname.obj) : error LNK2001: 无法解析的外部符号 strlen
+libvcruntimed.lib(std_exception.obj) : error LNK2001: 无法解析的外部符号 strlen
+libvcruntimed.lib(ehstate.obj) : error LNK2001: 无法解析的外部符号 abort
+libvcruntimed.lib(frame.obj) : error LNK2001: 无法解析的外部符号 abort
+libvcruntimed.lib(ehhelpers.obj) : error LNK2001: 无法解析的外部符号 abort
+libvcruntimed.lib(per_thread_data.obj) : error LNK2001: 无法解析的外部符号 abort
+libvcruntimed.lib(purevirt.obj) : error LNK2001: 无法解析的外部符号 abort
+libvcruntimed.lib(risctrnsctrl.obj) : error LNK2001: 无法解析的外部符号 abort
+libvcruntimed.lib(per_thread_data.obj) : error LNK2019: 无法解析的外部符号 _calloc_dbg，函数 __vcrt_getptd_noexit 中引用了该符号
+libvcruntimed.lib(undname.obj) : error LNK2019: 无法解析的外部符号 atol，函数 "private: static class DName __cdecl UnDecorator::getTemplateNonTypeArgument(void)" (?getTemplateNonTypeArgument@UnDecorator@@CA?AVDName@@XZ) 中引用了该符号
+libvcruntimed.lib(undname.obj) : error LNK2019: 无法解析的外部符号 strncmp，函数 "public: char * __cdecl UnDecorator::getCHPEName(char *,int)" (?getCHPEName@UnDecorator@@QEAAPEADPEADH@Z) 中引用了该符号
+libvcruntimed.lib(winapi_downlevel.obj) : error LNK2019: 无法解析的外部符号 wcsncmp，函数 "struct HINSTANCE__ * __cdecl try_load_library_from_system_directory(wchar_t const * const)" (?try_load_library_from_system_directory@@YAPEAUHINSTANCE__@@QEB_W@Z) 中引用了该符号
+libvcruntimed.lib(std_exception.obj) : error LNK2019: 无法解析的外部符号 free，函数 "public: void __cdecl __crt_public_free_policy::operator()<char>(char const * const)const " (??$?RD@__crt_public_free_policy@@QEBAXQEBD@Z) 中引用了该符号
+libvcruntimed.lib(std_exception.obj) : error LNK2019: 无法解析的外部符号 malloc，函数 __std_exception_copy 中引用了该符号
+D:\learnopengl\x64\Debug\learnopengl.exe : fatal error LNK1120: 58 个无法解析的外部命令
